@@ -1,4 +1,4 @@
-Static Rule Based approaches :
+Static Rule Based approaches (Implemented):
 ------------------------------
 
 1. High Transaction Amounts
@@ -24,7 +24,7 @@ Rule: Flag transactions deviating significantly from a user’s historical spend
 Why: Detect anomalies in user behavior, such as unusually high-value transactions that deviate from the norm. This is advanced part of rule#1.
 
 
-ML Algorithms Based approaches :
+ML Algorithms Based approaches (Future):
 --------------------------------
 
 1. Behavioral Profiling: Build user-specific models to predict "normal" behavior based on historical data. 
