@@ -1,0 +1,214 @@
+user_id,timestamp,merchant_name,amount,rule
+user_664,2024-09-21 19:51:04,merchant_893,4953.4299513736505,High Amount
+user_931,2024-11-15 19:51:04,merchant_939,4857.833843500495,High Amount
+user_255,2024-11-13 19:51:04,merchant_969,4777.4333128876815,High Amount
+user_605,2024-10-29 19:51:04,merchant_437,4682.994936564607,High Amount
+user_622,2024-10-22 19:51:04,merchant_439,4568.206117790431,High Amount
+user_187,2024-10-24 19:51:04,merchant_517,4545.071670824485,High Amount
+user_950,2024-11-12 19:51:04,merchant_740,4684.132995074621,High Amount
+user_722,2024-09-29 19:51:04,merchant_849,4666.657929390875,High Amount
+user_356,2024-11-11 19:51:04,merchant_361,4513.8471241725365,High Amount
+user_870,2024-11-06 19:51:04,merchant_913,4642.716251286755,High Amount
+user_812,2024-11-10 19:51:04,merchant_444,4841.923741969021,High Amount
+user_472,2024-11-14 19:51:04,merchant_85,4911.418899843335,High Amount
+user_242,2024-11-09 19:51:04,merchant_234,4971.893983593944,High Amount
+user_995,2024-10-13 19:51:04,merchant_301,4894.593866552657,High Amount
+user_450,2024-10-26 19:51:04,merchant_25,4999.685858891165,High Amount
+user_743,2024-10-08 19:51:04,merchant_122,4693.514371125202,High Amount
+user_368,2024-10-25 19:51:04,merchant_752,4940.325640421013,High Amount
+user_824,2024-10-07 19:51:04,merchant_934,4701.7971807631075,High Amount
+user_111,2024-09-21 19:51:04,merchant_469,4777.708159913919,High Amount
+user_279,2024-10-22 19:51:04,merchant_13,4718.494108061684,High Amount
+user_1,2024-11-15 19:50:41,merchant_643,4794.75,High Amount
+user_2,2024-10-31 19:51:04,new_merchant_43,4558.58,High Amount
+user_2,2024-11-05 19:51:04,new_merchant_47,4828.56,High Amount
+user_603,2024-10-26 19:51:04,merchant_787,4836.11,High Amount
+user_131,2024-11-01 19:51:04,merchant_468,4631.44,High Amount
+user_283,2024-09-25 19:51:04,merchant_721,4550.81,High Amount
+user_430,2024-10-28 19:51:04,merchant_701,4801.66,High Amount
+user_490,2024-10-26 19:51:04,merchant_744,4733.14,High Amount
+user_285,2024-10-19 19:51:04,merchant_150,4953.57,High Amount
+user_611,2024-09-29 19:51:04,merchant_132,4707.16,High Amount
+user_289,2024-09-26 19:51:04,merchant_227,4634.06,High Amount
+user_615,2024-10-06 19:51:04,merchant_273,4925.08,High Amount
+user_597,2024-09-18 19:51:04,merchant_28,4876.43,High Amount
+user_998,2024-11-08 19:51:04,merchant_425,4934.43,High Amount
+user_391,2024-11-03 19:51:04,merchant_296,4875.07,High Amount
+user_565,2024-10-15 19:51:04,merchant_621,4786.45,High Amount
+user_584,2024-10-08 19:51:04,merchant_584,4712.52,High Amount
+user_877,2024-10-19 19:51:04,merchant_12,4861.85,High Amount
+user_91,2024-09-20 19:51:04,merchant_580,4868.82,High Amount
+user_887,2024-10-16 19:51:04,merchant_74,4976.91,High Amount
+user_261,2024-10-15 19:51:04,merchant_557,4646.51,High Amount
+user_984,2024-10-09 19:51:04,merchant_764,4744.9,High Amount
+user_900,2024-10-19 19:51:04,merchant_283,4868.22,High Amount
+user_790,2024-10-19 19:51:04,merchant_62,4758.63,High Amount
+user_616,2024-10-08 19:51:04,merchant_548,4857.41,High Amount
+user_399,2024-10-28 19:51:04,merchant_944,4992.56,High Amount
+user_607,2024-10-15 19:51:04,merchant_336,4865.12,High Amount
+user_567,2024-10-30 19:51:04,merchant_386,4894.33,High Amount
+user_929,2024-10-19 19:51:04,merchant_202,4522.12,High Amount
+user_267,2024-10-14 19:51:04,merchant_975,4909.3,High Amount
+user_201,2024-10-16 19:51:04,merchant_935,4775.6,High Amount
+user_607,2024-11-04 19:51:04,merchant_873,4980.77,High Amount
+user_132,2024-11-15 19:51:04,merchant_673,4801.49,High Amount
+user_577,2024-10-02 19:51:04,merchant_30,4664.26,High Amount
+user_839,2024-11-14 19:51:04,merchant_495,4733.28,High Amount
+user_237,2024-10-06 19:51:04,merchant_441,4793.78,High Amount
+user_375,2024-10-23 19:51:04,merchant_317,4592.71,High Amount
+user_416,2024-10-22 19:51:04,merchant_761,4904.91,High Amount
+user_425,2024-10-12 19:51:04,merchant_63,4576.66,High Amount
+user_357,2024-09-26 19:51:04,merchant_32,4853.68,High Amount
+user_143,2024-10-17 19:51:04,merchant_627,4778.34,High Amount
+user_926,2024-10-05 19:51:04,merchant_631,4872.38,High Amount
+user_152,2024-10-27 19:51:04,merchant_343,4530.51,High Amount
+user_880,2024-11-03 19:51:04,merchant_443,4685.17,High Amount
+user_542,2024-11-04 19:51:04,merchant_499,4917.46,High Amount
+user_471,2024-10-25 19:51:04,merchant_90,4835.09,High Amount
+user_580,2024-09-20 19:51:04,merchant_333,4992.06,High Amount
+user_261,2024-11-04 19:51:04,merchant_439,4950.12,High Amount
+user_127,2024-09-18 19:51:04,merchant_305,4910.83,High Amount
+user_353,2024-09-17 19:51:04,merchant_942,4764.75,High Amount
+user_332,2024-10-09 19:51:04,merchant_708,4766.19,High Amount
+user_529,2024-10-25 19:51:04,merchant_354,4755.93,High Amount
+user_872,2024-11-13 19:51:04,merchant_768,4749.88,High Amount
+user_525,2024-10-09 19:51:04,merchant_747,4743.57,High Amount
+user_989,2024-10-13 19:51:04,merchant_902,4582.26,High Amount
+user_870,2024-09-20 19:51:04,merchant_923,4833.35,High Amount
+user_653,2024-11-03 19:51:04,merchant_21,4831.88,High Amount
+user_35,2024-09-18 19:51:04,merchant_691,4996.44,High Amount
+user_459,2024-09-29 19:51:04,merchant_774,4619.22,High Amount
+user_553,2024-10-01 19:51:04,merchant_171,4876.15,High Amount
+user_284,2024-10-23 19:51:04,merchant_704,4920.12,High Amount
+user_785,2024-09-20 19:51:04,merchant_886,4896.46,High Amount
+user_418,2024-11-01 19:51:04,merchant_602,4868.4,High Amount
+user_488,2024-10-19 19:51:04,merchant_820,4596.99,High Amount
+user_9,2024-11-03 19:51:04,merchant_745,4562.49,High Amount
+user_686,2024-11-01 19:51:04,merchant_960,4985.17,High Amount
+user_162,2024-10-09 19:51:04,merchant_346,4571.08,High Amount
+user_687,2024-11-08 19:51:04,merchant_885,4693.39,High Amount
+user_426,2024-10-12 19:51:04,merchant_703,4643.48,High Amount
+user_535,2024-10-24 19:51:04,merchant_812,4514.75,High Amount
+user_999,2024-10-02 19:51:04,merchant_802,4669.72,High Amount
+user_267,2024-10-21 19:51:04,merchant_693,4990.89,High Amount
+user_713,2024-10-12 19:51:04,merchant_959,4660.89,High Amount
+user_654,2024-11-10 19:51:04,merchant_821,4861.85,High Amount
+user_816,2024-11-03 19:51:04,merchant_912,4916.09,High Amount
+user_567,2024-09-18 19:51:04,merchant_506,4702.24,High Amount
+user_226,2024-10-12 19:51:04,merchant_550,4668.42,High Amount
+user_305,2024-09-26 19:51:04,merchant_179,4702.85,High Amount
+user_657,2024-09-20 19:51:04,merchant_223,4855.18,High Amount
+user_449,2024-09-19 19:51:04,merchant_230,4781.16,High Amount
+user_765,2024-11-08 19:51:04,merchant_110,4957.91,High Amount
+user_363,2024-10-22 19:51:04,merchant_486,4583.73,High Amount
+user_717,2024-10-12 19:51:04,merchant_182,4736.4,High Amount
+user_227,2024-11-04 19:51:04,merchant_827,4978.34,High Amount
+user_1,2024-11-15 19:50:36,merchant_946,519.91,Multiple Transactions in Short Time
+user_1,2024-11-15 19:50:38,merchant_719,3103.71,Multiple Transactions in Short Time
+user_1,2024-11-15 19:50:36,merchant_858,628.08,Multiple Transactions in Short Time
+user_1,2024-11-15 19:50:39,merchant_876,1787.92,Multiple Transactions in Short Time
+user_1,2024-11-15 19:50:34,merchant_415,3838.4,Multiple Transactions in Short Time
+user_1,2024-11-15 19:50:36,merchant_946,519.91,Multiple Transactions in Short Time
+user_1,2024-11-15 19:50:38,merchant_719,3103.71,Multiple Transactions in Short Time
+user_1,2024-11-15 19:50:36,merchant_858,628.08,Multiple Transactions in Short Time
+user_1,2024-11-15 19:50:39,merchant_876,1787.92,Multiple Transactions in Short Time
+user_1,2024-11-15 19:50:41,merchant_643,4794.75,Multiple Transactions in Short Time
+user_1,2024-11-15 19:50:41,merchant_495,2200.02,Multiple Transactions in Short Time
+user_1,2024-11-15 19:50:36,merchant_946,519.91,Multiple Transactions in Short Time
+user_1,2024-11-15 19:50:38,merchant_719,3103.71,Multiple Transactions in Short Time
+user_1,2024-11-15 19:50:36,merchant_858,628.08,Multiple Transactions in Short Time
+user_1,2024-11-15 19:50:39,merchant_876,1787.92,Multiple Transactions in Short Time
+user_1,2024-11-15 19:50:41,merchant_643,4794.75,Multiple Transactions in Short Time
+user_1,2024-11-15 19:50:41,merchant_495,2200.02,Multiple Transactions in Short Time
+user_1,2024-11-15 19:50:38,merchant_719,3103.71,Multiple Transactions in Short Time
+user_1,2024-11-15 19:50:39,merchant_876,1787.92,Multiple Transactions in Short Time
+user_1,2024-11-15 19:50:41,merchant_643,4794.75,Multiple Transactions in Short Time
+user_1,2024-11-15 19:50:42,merchant_894,2761.43,Multiple Transactions in Short Time
+user_1,2024-11-15 19:50:41,merchant_495,2200.02,Multiple Transactions in Short Time
+user_1,2024-11-15 19:50:45,merchant_195,303.48,Multiple Transactions in Short Time
+user_1,2024-11-15 19:50:39,merchant_876,1787.92,Multiple Transactions in Short Time
+user_1,2024-11-15 19:50:41,merchant_643,4794.75,Multiple Transactions in Short Time
+user_1,2024-11-15 19:50:42,merchant_894,2761.43,Multiple Transactions in Short Time
+user_1,2024-11-15 19:50:41,merchant_495,2200.02,Multiple Transactions in Short Time
+user_1,2024-11-15 19:50:45,merchant_195,303.48,Multiple Transactions in Short Time
+user_1,2024-11-15 19:50:46,merchant_624,2822.66,Multiple Transactions in Short Time
+user_1,2024-11-15 19:50:46,merchant_513,2623.12,Multiple Transactions in Short Time
+user_1,2024-11-15 19:50:41,merchant_643,4794.75,Multiple Transactions in Short Time
+user_1,2024-11-15 19:50:42,merchant_894,2761.43,Multiple Transactions in Short Time
+user_1,2024-11-15 19:50:41,merchant_495,2200.02,Multiple Transactions in Short Time
+user_1,2024-11-15 19:50:45,merchant_195,303.48,Multiple Transactions in Short Time
+user_1,2024-11-15 19:50:46,merchant_624,2822.66,Multiple Transactions in Short Time
+user_1,2024-11-15 19:50:46,merchant_513,2623.12,Multiple Transactions in Short Time
+user_1,2024-11-15 19:50:41,merchant_643,4794.75,Multiple Transactions in Short Time
+user_1,2024-11-15 19:50:42,merchant_894,2761.43,Multiple Transactions in Short Time
+user_1,2024-11-15 19:50:41,merchant_495,2200.02,Multiple Transactions in Short Time
+user_1,2024-11-15 19:50:49,merchant_220,535.6,Multiple Transactions in Short Time
+user_1,2024-11-15 19:50:45,merchant_195,303.48,Multiple Transactions in Short Time
+user_1,2024-11-15 19:50:46,merchant_624,2822.66,Multiple Transactions in Short Time
+user_1,2024-11-15 19:50:46,merchant_513,2623.12,Multiple Transactions in Short Time
+user_1,2024-11-15 19:50:42,merchant_894,2761.43,Multiple Transactions in Short Time
+user_1,2024-11-15 19:50:50,merchant_413,258.7,Multiple Transactions in Short Time
+user_1,2024-11-15 19:50:49,merchant_220,535.6,Multiple Transactions in Short Time
+user_1,2024-11-15 19:50:45,merchant_195,303.48,Multiple Transactions in Short Time
+user_1,2024-11-15 19:50:46,merchant_624,2822.66,Multiple Transactions in Short Time
+user_1,2024-11-15 19:50:46,merchant_513,2623.12,Multiple Transactions in Short Time
+user_1,2024-11-15 19:50:50,merchant_413,258.7,Multiple Transactions in Short Time
+user_1,2024-11-15 19:50:49,merchant_220,535.6,Multiple Transactions in Short Time
+user_1,2024-11-15 19:50:53,merchant_449,3519.26,Multiple Transactions in Short Time
+user_1,2024-11-15 19:50:46,merchant_624,2822.66,Multiple Transactions in Short Time
+user_1,2024-11-15 19:50:46,merchant_513,2623.12,Multiple Transactions in Short Time
+user_1,2024-11-15 19:50:50,merchant_413,258.7,Multiple Transactions in Short Time
+user_1,2024-11-15 19:50:49,merchant_220,535.6,Multiple Transactions in Short Time
+user_1,2024-11-15 19:50:53,merchant_449,3519.26,Multiple Transactions in Short Time
+user_1,2024-11-15 19:50:46,merchant_624,2822.66,Multiple Transactions in Short Time
+user_1,2024-11-15 19:50:46,merchant_513,2623.12,Multiple Transactions in Short Time
+user_1,2024-11-15 19:50:56,merchant_632,2087.04,Multiple Transactions in Short Time
+user_1,2024-11-15 19:50:50,merchant_413,258.7,Multiple Transactions in Short Time
+user_1,2024-11-15 19:50:49,merchant_220,535.6,Multiple Transactions in Short Time
+user_1,2024-11-15 19:50:53,merchant_449,3519.26,Multiple Transactions in Short Time
+user_1,2024-11-15 19:50:56,merchant_632,2087.04,Multiple Transactions in Short Time
+user_1,2024-11-15 19:51:00,merchant_503,3976.16,Multiple Transactions in Short Time
+user_1,2024-11-15 19:51:00,merchant_179,589.08,Multiple Transactions in Short Time
+user_1,2024-11-15 19:50:50,merchant_413,258.7,Multiple Transactions in Short Time
+user_1,2024-11-15 19:50:53,merchant_449,3519.26,Multiple Transactions in Short Time
+user_1,2024-11-15 19:50:56,merchant_632,2087.04,Multiple Transactions in Short Time
+user_1,2024-11-15 19:51:00,merchant_503,3976.16,Multiple Transactions in Short Time
+user_1,2024-11-15 19:51:00,merchant_179,589.08,Multiple Transactions in Short Time
+user_1,2024-11-15 19:50:53,merchant_449,3519.26,Multiple Transactions in Short Time
+user_1,2024-11-15 19:50:56,merchant_632,2087.04,Multiple Transactions in Short Time
+user_1,2024-11-15 19:51:00,merchant_503,3976.16,Multiple Transactions in Short Time
+user_1,2024-11-15 19:51:00,merchant_179,589.08,Multiple Transactions in Short Time
+user_1,2024-11-15 19:51:01,merchant_26,2027.39,Multiple Transactions in Short Time
+user_1,2024-11-15 19:50:56,merchant_632,2087.04,Multiple Transactions in Short Time
+user_1,2024-11-15 19:51:00,merchant_503,3976.16,Multiple Transactions in Short Time
+user_1,2024-11-15 19:51:00,merchant_179,589.08,Multiple Transactions in Short Time
+user_1,2024-11-15 19:51:02,merchant_878,4411.92,Multiple Transactions in Short Time
+user_1,2024-11-15 19:51:01,merchant_26,2027.39,Multiple Transactions in Short Time
+user_1,2024-11-15 19:51:03,merchant_363,309.28,Multiple Transactions in Short Time
+user_1,2024-11-15 19:51:00,merchant_503,3976.16,Multiple Transactions in Short Time
+user_1,2024-11-15 19:51:00,merchant_179,589.08,Multiple Transactions in Short Time
+user_1,2024-11-15 19:51:02,merchant_878,4411.92,Multiple Transactions in Short Time
+user_1,2024-11-15 19:51:01,merchant_26,2027.39,Multiple Transactions in Short Time
+user_1,2024-11-15 19:50:53,merchant_449,3519.26,Unusual Merchant
+user_1,2024-11-15 19:50:46,merchant_624,2822.66,Unusual Merchant
+user_1,2024-11-15 19:50:46,merchant_513,2623.12,Unusual Merchant
+user_1,2024-11-15 19:50:34,merchant_415,3838.4,Unusual Merchant
+user_1,2024-11-15 19:50:41,merchant_643,4794.75,Unusual Merchant
+user_1,2024-11-15 19:50:56,merchant_632,2087.04,Unusual Merchant
+user_1,2024-11-15 19:51:00,merchant_503,3976.16,Unusual Merchant
+user_1,2024-11-15 19:50:42,merchant_894,2761.43,Unusual Merchant
+user_1,2024-11-15 19:51:02,merchant_878,4411.92,Unusual Merchant
+user_1,2024-11-15 19:51:01,merchant_26,2027.39,Unusual Merchant
+user_1,2024-11-15 19:50:41,merchant_495,2200.02,Unusual Merchant
+user_2,2024-10-31 19:51:04,new_merchant_45,3772.05,Unusual Merchant
+user_2,2024-11-05 19:51:04,new_merchant_47,4828.56,Unusual Merchant
+user_2,2024-09-27 19:51:04,new_merchant_50,3699.99,Unusual Merchant
+user_2,2024-10-10 19:51:04,new_merchant_51,3583.59,Unusual Merchant
+user_2,2024-11-11 19:51:04,new_merchant_52,4061.13,Unusual Merchant
+user_2,2024-11-08 19:51:04,new_merchant_57,2906.06,Unusual Merchant
+user_3,2024-11-12 19:51:04,merchant_548,2393.9,Unusual Merchant
+user_1,2024-10-28 19:51:04,merchant_897,3620.4,Unusual Merchant
+user_3,2024-11-15 19:34:04,merchant_repeat,100.0,Repeated Transactions
+user_3,2024-11-15 19:33:04,merchant_repeat,100.0,Repeated Transactions
+user_3,2024-11-15 19:32:04,merchant_repeat,100.0,Repeated Transactions
+user_3,2024-11-12 19:51:04,merchant_548,2393.9,Sudden Spending Pattern Change
